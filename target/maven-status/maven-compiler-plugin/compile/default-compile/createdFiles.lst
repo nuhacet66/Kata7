@@ -1,0 +1,7 @@
+view/SwingMainView.class
+view/MainView.class
+model/Currency.class
+App.class
+service/ExchangeRateService.class
+presenter/MainPresenter.class
+model/ExchangeRate.class
